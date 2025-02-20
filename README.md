@@ -2,7 +2,7 @@
 
 ## 📌 Introduction
 
-This project implements **Huffman Coding**, a lossless data compression algorithm. Huffman Coding assigns variable-length codes to input characters, with shorter codes assigned to more frequent characters, optimizing data storage and transmission.
+This project implements **Huffman Coding**, a lossless data compression algorithm.It was developed as part of my Data Structures course in my second year at university. Huffman Coding assigns variable-length codes to input characters, with shorter codes assigned to more frequent characters, optimizing data storage and transmission.
 
 ## 🚀 Features
 
