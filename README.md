@@ -19,16 +19,6 @@ This project implements **Huffman Coding**, a lossless data compression algorith
 4. **Encoding the Input**: Replaces characters with their respective Huffman codes.
 5. **Decoding the Compressed Data**: Recovers the original text using the Huffman tree.
 
-## 📂 Project Structure
-
-```
-Huffman-Coding/
-│── huffman.cpp  # Main C++ implementation
-│── README.md    # Project documentation
-│── input.txt    # Example input file (optional)
-│── output.txt   # Example compressed output (optional)
-```
-
 ## 🔧 Setup & Usage
 
 ### 🖥️ Compilation
